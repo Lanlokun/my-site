@@ -1,0 +1,247 @@
+*{
+   background-color: cornsilk;
+   z-index: 0;
+  
+
+   
+}
+#logo {
+   width: 120px;
+   margin: auto;
+}
+ nav a {
+    text-decoration: none;
+    float: right;
+    margin: 2% 1%;
+    padding: 15px 30px;
+    font-size: 20px;
+    color: rgb(22, 19, 3);
+    border: 0px 2px solid whitesmoke;
+    
+
+}
+
+
+
+nav a:hover {
+     color: yellowgreen;
+    font-weight: 800;
+    border: 1px solid rgb(217, 228, 8);
+    border-width: 1px;
+    box-shadow: 2px 2px rgb(0, 2, 12);
+    border-radius: 10px;
+}
+section {
+   background-image: url();
+   background:linear-gradient(rgba(11, 11, 28, 0.5), rgba(255, 217, 0, 0.5)), url(./images/yaws-ngalla-lodge-2.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   width: 100%;
+   height: 80%;
+   margin: 6.6% 0%;
+   top: 0;
+   left: 0;
+   position: absolute;
+   box-sizing: border-box;
+   opacity: 0.7;
+   box-sizing: border-box;
+   box-shadow: whitesmoke;
+   
+  
+   
+}
+
+#body{
+   position: relative;
+   text-align: center;
+   color: rgb(51, 6, 6);
+}
+
+.img-text{
+   position: absolute;
+   padding: 12.5% 1%;
+   background: none;
+   color: cornsilk;
+   font-size: 60px;
+   font-family: 'Courier New', Courier, monospace;
+   text-shadow: 2px 3px rgb(28, 3, 3);
+   
+
+
+}
+#paragraph {
+   padding: 17% 10%;
+   font-size: 25px;
+   font-weight: 600;
+
+}
+
+#About h1 {
+   padding:48% 20%;
+   font-size: 50px;
+   font-weight: 800;
+   margin: 50px;
+   text-shadow: 1px 2px rgb(22, 22, 1);
+
+}
+
+#malik {
+   padding: -1% 2%;
+   margin: -52% 65%;
+   position: absolute;
+   background: none;
+   background-color: rgb(51, 53, 4);
+}
+#para {
+   position: absolute;
+   display: flex;
+   flex-wrap: wrap;
+   margin: -49% 45% -50% 12%;
+   font-size: 20px;
+   letter-spacing: 3px;
+   line-height: 29px;
+  
+  
+
+}
+button a {
+   background: none;
+   text-decoration: none;
+   color: black;
+}
+#Portfolio {
+   display: inline;
+   padding: 20px;
+   margin: -5%;
+  
+}
+#skills {
+   color: olive;
+   padding: 50%;
+   box-shadow: 3px 3px rgb(200, 202, 42);
+
+}
+#heading {
+   text-align: center;
+   font-size: 60px;
+   font-weight: 800;
+   padding: 50px 10px;
+   text-transform: uppercase;
+   box-shadow: 2px 4px 2px 4px khaki;
+   margin: 20px;
+}
+
+footer {
+   text-align: center;
+   background-color: khaki;
+   padding:10px 10px;
+   color: rgb(0, 0, 0);
+   font-size: 20px;
+   font-weight: 500;
+   text-shadow: 1px 1px rgb(255, 255, 218);
+
+}
+#skill {
+   padding-bottom: 10px;
+}
+table{
+ 
+   box-shadow: 5px 2px thistle;
+   padding: 30%;
+   
+}
+table th {
+   padding: 10px;
+   color: rgb(29, 17, 2);
+   font-weight: 800;
+   font-size: 20px;
+   font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+   
+}
+table tr td {
+   padding: 10px;
+   text-align: center;
+}
+ 
+.container img {
+   width: 550px;
+   padding: 10px;
+   
+  
+}
+.container img:hover {
+   width: 650px;
+   padding: 10px;
+}
+.container h1 {
+   text-align: center;
+   font-weight: 800;
+   font-size: 50px;
+   padding: 50px 10px;
+   text-transform: uppercase;
+   box-shadow: 2px 4px 2px 4px khaki;
+   margin: 20px;
+}
+.container p {
+   padding: 2px;
+}
+
+#second-image {
+   margin: -4px;
+}
+#first-image {
+   margin:5px;
+   width: 575px;
+}
+#social {
+   margin: 90px;
+}
+#social p{
+   text-align: center;
+   font-weight: 700;
+
+}
+.container button {
+   align-items: center;
+   text-align: center;
+   background-color: yellow;
+   box-shadow:2px 3px yellowgreen;
+   border: 1px solid wheat;
+   margin: 0% 50%;
+    padding: 10px 15px;
+
+}
+.container button:hover {
+   background-color: yellowgreen;
+   color: honeydew;
+   font-weight: 700;
+  padding: 12px;
+}
+#Contact h1 {
+   padding: 50px 10px;
+   text-transform: uppercase;
+   box-shadow: 2px 4px 2px 4px khaki;
+   margin: 20px;
+}
+#Contact ul li, img {
+   background: none;
+   font-weight: 700;
+   font-size: 30px;
+   
+}
+#Contact ul {
+   padding: 50px;
+   background-color: yellowgreen;
+}
+#Contact img {
+   width: 80px;
+}
+#contact2 {
+   padding: 40px;
+   background-color: khaki;
+}
+#contact2 img {
+   width: 100%;
+}
+
